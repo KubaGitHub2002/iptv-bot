@@ -1,4 +1,3 @@
-#NAME IPTV Streams E1
-#SERVICE 
-#DESCRIPTION
+#EXTINF:-1 tvg-id="4FunTV.pl",4FUN TV (576p) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f.m3u8
 
